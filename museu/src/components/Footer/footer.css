@@ -1,0 +1,57 @@
+.footer {
+  border-top: 1px solid black;
+  width: 100vw;
+  justify-content: center;
+}
+
+.content {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  width: 100vw;
+}
+
+.content h2 {
+  text-align: center;
+}
+
+.logoColumn {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}    
+
+.footer ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.56rem;
+  margin-top: 1.81rem;
+}    
+
+.footer li {
+  font-size: 0.875rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+} 
+
+.footer svg {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.footer path {
+  fill: var(--background-contrast-color);
+}
+
+.phone {
+  width: 50px;
+  height: 30px;
+}
+
+.email {
+  width: 50px;
+  height: 30px;
+}

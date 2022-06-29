@@ -1,12 +1,23 @@
 .carousel {
-  display: block;
+  display: flex;
   margin-top: 20px;
-  margin-left: 150px;
-  height: 800px;
-  width: 1000px;
+  justify-content: center;
+  margin: auto;
+  height: 700px;
+  width: 100vw;
 }
 
 .carousel img {
   min-height: 500px;
-  max-height: 500px;
+  max-height: 700px;
+}
+
+.carousel p {
+  background: rgba(0, 0, 0, 0.4);
+  width: 1200px;
+}
+
+.footer {
+  display: flex;
+  height: 280px;
 }
