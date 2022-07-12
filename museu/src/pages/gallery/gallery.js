@@ -21,54 +21,67 @@ export default function Gallery() {
         {
         id:1,
         imgSrc: Img1,
+        description: 'O Rio Grande do Norte é conhecido pelo seu folclore, com as obras de Luis da Câmara Cascudo e de Mário de Andrade. Hoje, prefere-se designar como patrimônio imaterial as práticas sociais coletivas, como as festas e as celebrações, as formas de expressão cênicas, plásticas, musicais ou lúdicas e os saberes transmitidos de geração em geração (os ofício,s as técnicas e modos de fazer). Os povos tradicionais e seus mestres, poetas e contadores de história, artesões, rabequeiros, rezadeiras e curandeiros, cozinheiras são os detentores desse patrimônio pouco valorizado. As festas, como as da irmandade do Rosário no Seridó, as brincadeiras e as danças, têm um atrativo especial por nos mostrar que esses saberes da tradição são muito vivos.'
         },
         {
         id:2,
         imgSrc: Img2,
+        description: 'teste2'
         },
         {
         id:3,
         imgSrc: Img3,
+        description: 'beiçano'
         },
         {
         id:4,
         imgSrc: Img4,
+        description: 'beiçano'
         },
         {
         id:5,
         imgSrc: Img5,
+        description: 'beiçano'
         },
         {
         id:6,
         imgSrc: Img6,
+        description: 'beiçano'
         },
         {
         id:7,
         imgSrc: Img7,
+        description: 'beiçano'
         },
         {
         id:8,
         imgSrc: Img8,
+        description: 'beiçano'
         },
         {
         id:9,
         imgSrc: Img9,
+        description: 'beiçano'
         },
         {
         id:10,
         imgSrc: Img10,
+        description: 'beiçano'
         },
         {
         id:11,
         imgSrc: Img11,
+        description: 'beiçano'
         },
     ]
 
     const [model, setModel] = useState(false)
     const [tempImgSrc, setTempImgSrc] = useState('')
+    const [description, setDescription] = useState('')
 
-    const getImg = (imgSrc) => {
-        setTempImgSrc(imgSrc);
+    const getImg = (item) => {
+        setTempImgSrc(item.imgSrc);
+        setDescription(item.description);
         setModel(true);
     }
 
@@ -76,17 +89,18 @@ export default function Gallery() {
         <>
         <Navbar/>
         <div className={model? "model open":"model"}>
-            <img src={tempImgSrc} />
-            <p>Os lugares de memória são marcas de um passado inscrito na paisagem, materializam o esquecimento e o apagamento da história dos que perderam as guerras. As serras, rios, vales e grutas carregam a lembrança de eventos que foram apagados mas que resistem, às vezes, apenas na lembrança dos moradores do lugar, numa marca na paisagem ou através dos topônimos. Essa história, mesmo sem ser inteligível, resiste na memória e testemunha de acontecimentos violentos, espoliações de terra, aprisionamentos, assassinatos. A natureza conserva na sua concretude a memória trágica dos fatos.</p>
+            <div className='contentModel'>
+                <img src={tempImgSrc} />
+                <p align="justify">{description}</p>
+            </div>
             <AiFillCloseCircle onClick={()=> setModel(false)}/>
         </div>
         <div className='gallery'>
             {
                 data.map((item, index)=>{
                     return(
-                        <div className='photos' key={index} onClick ={() => getImg(item.imgSrc)} >
+                        <div className='photos' key={index} onClick ={() => getImg(item)} >
                             <img src={item.imgSrc} style={{width:'100%'}}/>
-
                         </div>
                     )
                 })

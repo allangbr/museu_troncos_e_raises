@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export default function Navbar() {
   return (
-    <Nav className="justify-content-end" variant="tabs" activeKey="1">
+    <Nav className="justify-content-end" variant="" activeKey="1">
       <Nav.Item>
         <Nav.Link eventKey="1" href="/">
           Início      
@@ -14,7 +14,7 @@ export default function Navbar() {
       <NavDropdown title="Mídia" id="nav-dropdown">
         <NavDropdown.Item eventKey="4.1">Audios</NavDropdown.Item>
         <NavDropdown.Item eventKey="4.2">Filmes</NavDropdown.Item>
-        <NavDropdown.Item eventKey="4.3"  href="/gallery">Imagens</NavDropdown.Item>
+        <NavDropdown.Item eventKey="4.3" href="/gallery">Imagens</NavDropdown.Item>
       </NavDropdown>
       <NavDropdown title="Biblioteca" id="nav-dropdown">
         <NavDropdown.Item eventKey="4.1">Documentos</NavDropdown.Item>

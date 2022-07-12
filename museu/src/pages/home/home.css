@@ -19,7 +19,28 @@
   
 }
 
+.carousel h3 {
+  text-shadow: 2px 4px 4px #000000;
+}
+
 .footer {
   display: flex;
   height: 280px;
+}
+
+.footer li, h2{
+  color: white;
+}
+
+.nav {
+  display: block;
+  justify-content: end;
+}
+
+.nav a {
+  color: white;
+}
+
+.dropdown-menu.show {
+  background-color: black;
 }

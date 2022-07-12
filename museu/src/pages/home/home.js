@@ -6,7 +6,9 @@ import Footer from "../../components/Footer/footer";
 export default function Home() {
   return (
     <div className="home">
-      <Nav/>
+      <div className="nav">
+        <Nav/>
+      </div>
       <div className="carousel">
         <CarouselItem/>
       </div>

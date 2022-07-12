@@ -6,7 +6,7 @@
     -moz-column-width: 33%;
     column-width: 33%;
     padding: 0 12px;
-    background-color: white;
+    background-color: black;
 }
 
 .gallery .photos{
@@ -70,6 +70,9 @@
     visibility: visible;
     opacity: 1;
     transform: scale(1);
+    display: flex;
+    justify-items: center;
+    align-items: center;
 }
 
 .model img{
@@ -95,3 +98,11 @@
     color: #ffffff;
     cursor: pointer;
 } 
+
+.contentModel p {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: white;
+}
+
