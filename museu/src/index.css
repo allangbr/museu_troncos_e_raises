@@ -11,7 +11,9 @@
 body {
   margin: 0;
   /* background-color: black; */
-  background-image: url("/assets/img/background.png");
+  background-image: url("/assets/img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: 'Nunito', sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
