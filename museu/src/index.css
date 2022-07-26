@@ -10,7 +10,8 @@
 
 body {
   margin: 0;
-  background-color: black;
+  /* background-color: black; */
+  background-image: url("/assets/img/background.png");
   font-family: 'Nunito', sans-serif !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
