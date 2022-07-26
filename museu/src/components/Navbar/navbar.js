@@ -12,7 +12,7 @@ export default function Navbar() {
         </Nav.Link>
       </Nav.Item>
       <NavDropdown title="Mídia" id="nav-dropdown">
-        <NavDropdown.Item eventKey="4.1">Audios</NavDropdown.Item>
+        <NavDropdown.Item eventKey="4.1" href="/audio">Audios</NavDropdown.Item>
         <NavDropdown.Item eventKey="4.2" href="/movie">Filmes</NavDropdown.Item>
         <NavDropdown.Item eventKey="4.3" href="/gallery">Imagens</NavDropdown.Item>
       </NavDropdown>
