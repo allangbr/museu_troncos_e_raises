@@ -1,4 +1,4 @@
-.footer {
+.footer-div {
   display: flex;
   height: 280px;
 }
@@ -10,11 +10,16 @@ h1 {
   justify-content: center;
 }
 
-.videos-list ul{
+.document-list ul{
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  flex-direction: column;
+  justify-content: left;
+  align-items: flex-start;
   list-style: none;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+}
 
