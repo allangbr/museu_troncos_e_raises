@@ -12,16 +12,15 @@ export default function Navbar() {
         </Nav.Link>
       </Nav.Item>
       <NavDropdown title="Mídia" id="nav-dropdown">
-        <NavDropdown.Item eventKey="4.1" href="/audio">Audios</NavDropdown.Item>
-        <NavDropdown.Item eventKey="4.2" href="/movie">Filmes</NavDropdown.Item>
-        <NavDropdown.Item eventKey="4.3" href="/gallery">Imagens</NavDropdown.Item>
+        <NavDropdown.Item eventKey="2.1" href="/audio">Audios</NavDropdown.Item>
+        <NavDropdown.Item eventKey="2.2" href="/movie">Filmes</NavDropdown.Item>
+        <NavDropdown.Item eventKey="2.3" href="/gallery">Imagens</NavDropdown.Item>
       </NavDropdown>
-      <NavDropdown title="Biblioteca" id="nav-dropdown">
-        <NavDropdown.Item eventKey="4.1">Documentos</NavDropdown.Item>
-        <NavDropdown.Item eventKey="4.2">Arquivos</NavDropdown.Item>
-        <NavDropdown.Item eventKey="4.3">Livros</NavDropdown.Item>
-        <NavDropdown.Item eventKey="4.4">Produções</NavDropdown.Item>
-      </NavDropdown>
+      <Nav.Item>
+        <Nav.Link eventKey="3" href="/document">
+          Documentos      
+        </Nav.Link>
+      </Nav.Item>
     </Nav>
   );
 }
