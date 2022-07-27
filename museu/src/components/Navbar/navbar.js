@@ -21,6 +21,11 @@ export default function Navbar() {
           Documentos      
         </Nav.Link>
       </Nav.Item>
+      <Nav.Item>
+        <Nav.Link eventKey="4" href="/document">
+          Site Saberes      
+        </Nav.Link>
+      </Nav.Item>
     </Nav>
   );
 }
