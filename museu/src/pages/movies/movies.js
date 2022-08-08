@@ -27,9 +27,9 @@ export default function Movie() {
             <li><iframe width="560" height="315" src="https://www.youtube.com/embed/reVGQABDzuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
             <li><iframe width="560" height="315" src="https://www.youtube.com/embed/G67Bx6FLk9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
             <li><iframe width="560" height="315" src="https://www.youtube.com/embed/5JhK572zc34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
-            <li></li>
-            <li></li>
-            <li></li>
+            <li><iframe width="560" height="315" src="https://www.youtube.com/embed/Y36WfqjvYOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+            <li><iframe width="560" height="315" src="https://www.youtube.com/embed/48BuLgCEq8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
+            <li><iframe width="560" height="315" src="https://www.youtube.com/embed/dj4jDGNnXr8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
             <li></li>
           </ul>
         </div>
