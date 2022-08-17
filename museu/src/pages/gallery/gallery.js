@@ -22,6 +22,22 @@ import Img4_pasta02 from '../../files/images/Seminário Conexões - IBRAM/img4.j
 import Img5_pasta02 from '../../files/images/Seminário Conexões - IBRAM/img5.jpg'
 import Img6_pasta02 from '../../files/images/Seminário Conexões - IBRAM/img6.jpg'
 
+import Img1_pasta03 from '../../files/images/Sagi - Alix Macadré  2017/img1.jpg'
+import Img2_pasta03 from '../../files/images/Sagi - Alix Macadré  2017/img2.jpg'
+import Img3_pasta03 from '../../files/images/Sagi - Alix Macadré  2017/img3.jpg'
+import Img4_pasta03 from '../../files/images/Sagi - Alix Macadré  2017/img4.jpg'
+
+import Img1_pasta04 from '../../files/images/Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013)/img1.jpg'
+import Img2_pasta04 from '../../files/images/Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013)/img2.jpg'
+import Img3_pasta04 from '../../files/images/Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013)/img3.jpg'
+import Img4_pasta04 from '../../files/images/Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013)/img4.jpg'
+import Img5_pasta04 from '../../files/images/Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013)/img5.jpg'
+import Img6_pasta04 from '../../files/images/Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013)/img6.jpg'
+import Img7_pasta04 from '../../files/images/Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013)/img7.jpg'
+import Img8_pasta04 from '../../files/images/Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013)/img8.jpg'
+import Img9_pasta04 from '../../files/images/Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013)/img9.jpg'
+import Img10_pasta04 from '../../files/images/Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013)/img10.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -33,47 +49,47 @@ export default function Gallery() {
         {
         id:2,
         imgSrc: Img2_pasta01,
-        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais'
+        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais.'
         },
         {
         id:3,
         imgSrc: Img3_pasta01,
-        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais'
+        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais.'
         },
         {
         id:4,
         imgSrc: Img4_pasta01,
-        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais'
+        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais.'
         },
         {
         id:5,
         imgSrc: Img5_pasta01,
-        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais'
+        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais.'
         },
         {
         id:6,
         imgSrc: Img6_pasta01,
-        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais'
+        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais.'
         },
         {
         id:7,
         imgSrc: Img7_pasta01,
-        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais'
+        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais.'
         },
         {
         id:8,
         imgSrc: Img8_pasta01,
-        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais'
+        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais.'
         },
         {
         id:9,
         imgSrc: Img9_pasta01,
-        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais'
+        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais.'
         },
         {
         id:10,
         imgSrc: Img10_pasta01,
-        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais'
+        description: 'Seminário de encerramento do curso Educação para as Relações Etnico-Raciais.'
         },
         {
         id:11,
@@ -83,27 +99,97 @@ export default function Gallery() {
         {
         id:12,
         imgSrc: Img2_pasta02,
-        description: 'Seminário Conexões - IBRAM'
+        description: 'Seminário Conexões - IBRAM.'
         },
         {
         id:13,
         imgSrc: Img3_pasta02,
-        description: 'Seminário Conexões - IBRAM'
+        description: 'Seminário Conexões - IBRAM.'
         },
         {
         id:14,
         imgSrc: Img4_pasta02,
-        description: 'Seminário Conexões - IBRAM'
+        description: 'Seminário Conexões - IBRAM.'
         },
         {
         id:15,
         imgSrc: Img5_pasta02,
-        description: 'Seminário Conexões - IBRAM'
+        description: 'Seminário Conexões - IBRAM.'
         },
         {
         id:16,
         imgSrc: Img6_pasta02,
-        description: 'Seminário Conexões - IBRAM'
+        description: 'Seminário Conexões - IBRAM.'
+        },
+        {
+        id:17,
+        imgSrc: Img1_pasta03,
+        description: 'Sagi - Alix Macadré  2017.'
+        },
+        {
+        id:18,
+        imgSrc: Img2_pasta03,
+        description: 'Sagi - Alix Macadré  2017.'
+        },
+        {
+        id:19,
+        imgSrc: Img3_pasta03,
+        description: 'Sagi - Alix Macadré  2017.'
+        },
+        {
+        id:20,
+        imgSrc: Img4_pasta03,
+        description: 'Sagi - Alix Macadré  2017.'
+        },
+        {
+        id:21,
+        imgSrc: Img1_pasta04,
+        description: 'Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013).'
+        },
+        {
+        id:22,
+        imgSrc: Img2_pasta04,
+        description: 'Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013).'
+        },
+        {
+        id:23,
+        imgSrc: Img3_pasta04,
+        description: 'Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013).'
+        },
+        {
+        id:24,
+        imgSrc: Img4_pasta04,
+        description: 'Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013).'
+        },
+        {
+        id:25,
+        imgSrc: Img5_pasta04,
+        description: 'Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013).'
+        },
+        {
+        id:26,
+        imgSrc: Img6_pasta04,
+        description: 'Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013).'
+        },
+        {
+        id:27,
+        imgSrc: Img7_pasta04,
+        description: 'Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013).'
+        },
+        {
+        id:28,
+        imgSrc: Img8_pasta04,
+        description: 'Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013).'
+        },
+        {
+        id:29,
+        imgSrc: Img9_pasta04,
+        description: 'Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013).'
+        },
+        {
+        id:30,
+        imgSrc: Img10_pasta04,
+        description: 'Retratos da Boa Vista (oficinas de Ac Jr 2012 e 2013).'
         },
     ]
 
