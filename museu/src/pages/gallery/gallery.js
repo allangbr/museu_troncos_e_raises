@@ -180,6 +180,17 @@ import Img67_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-0
 import Img68_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img68.jpg'
 import Img69_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img69.jpg'
 
+import Img1_pasta09 from '../../files/images/Oficina audiovisual com Cécili Chagnaud (Parelhas)/img1.jpg'
+import Img2_pasta09 from '../../files/images/Oficina audiovisual com Cécili Chagnaud (Parelhas)/img2.jpg'
+import Img3_pasta09 from '../../files/images/Oficina audiovisual com Cécili Chagnaud (Parelhas)/img3.jpg'
+import Img4_pasta09 from '../../files/images/Oficina audiovisual com Cécili Chagnaud (Parelhas)/img4.jpg'
+import Img5_pasta09 from '../../files/images/Oficina audiovisual com Cécili Chagnaud (Parelhas)/img5.jpg'
+import Img6_pasta09 from '../../files/images/Oficina audiovisual com Cécili Chagnaud (Parelhas)/img6.jpg'
+import Img7_pasta09 from '../../files/images/Oficina audiovisual com Cécili Chagnaud (Parelhas)/img7.jpg'
+import Img8_pasta09 from '../../files/images/Oficina audiovisual com Cécili Chagnaud (Parelhas)/img8.jpg'
+import Img9_pasta09 from '../../files/images/Oficina audiovisual com Cécili Chagnaud (Parelhas)/img9.jpg'
+import Img10_pasta09 from '../../files/images/Oficina audiovisual com Cécili Chagnaud (Parelhas)/img10.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -1022,6 +1033,56 @@ export default function Gallery() {
         id:168,
         imgSrc: Img69_pasta08,
         description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:169,
+        imgSrc: Img1_pasta09,
+        description: 'Oficina audiovisual com Cécili Chagnaud (Parelhas).'
+        },
+        {
+        id:170,
+        imgSrc: Img2_pasta09,
+        description: 'Oficina audiovisual com Cécili Chagnaud (Parelhas).'
+        },
+        {
+        id:171,
+        imgSrc: Img3_pasta09,
+        description: 'Oficina audiovisual com Cécili Chagnaud (Parelhas).'
+        },
+        {
+        id:172,
+        imgSrc: Img4_pasta09,
+        description: 'Oficina audiovisual com Cécili Chagnaud (Parelhas).'
+        },
+        {
+        id:173,
+        imgSrc: Img5_pasta09,
+        description: 'Oficina audiovisual com Cécili Chagnaud (Parelhas).'
+        },
+        {
+        id:174,
+        imgSrc: Img6_pasta09,
+        description: 'Oficina audiovisual com Cécili Chagnaud (Parelhas).'
+        },
+        {
+        id:175,
+        imgSrc: Img7_pasta09,
+        description: 'Oficina audiovisual com Cécili Chagnaud (Parelhas).'
+        },
+        {
+        id:176,
+        imgSrc: Img8_pasta09,
+        description: 'Oficina audiovisual com Cécili Chagnaud (Parelhas).'
+        },
+        {
+        id:177,
+        imgSrc: Img9_pasta09,
+        description: 'Oficina audiovisual com Cécili Chagnaud (Parelhas).'
+        },
+        {
+        id:178,
+        imgSrc: Img10_pasta09,
+        description: 'Oficina audiovisual com Cécili Chagnaud (Parelhas).'
         },
     ]
 
