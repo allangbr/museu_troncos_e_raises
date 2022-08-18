@@ -93,6 +93,23 @@ import Img13_pasta06 from '../../files/images/Oficina Estudo de Movimentos Afro 
 import Img14_pasta06 from '../../files/images/Oficina Estudo de Movimentos Afro com Prof. Monica/img14.jpg'
 import Img15_pasta06 from '../../files/images/Oficina Estudo de Movimentos Afro com Prof. Monica/img15.jpg'
 
+import Img1_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img1.jpg'
+import Img2_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img2.jpg'
+import Img3_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img3.jpg'
+import Img4_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img4.jpg'
+import Img5_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img5.jpg'
+import Img6_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img6.jpg'
+import Img7_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img7.jpg'
+import Img8_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img8.jpg'
+import Img9_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img9.jpg'
+import Img10_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img10.jpg'
+import Img11_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img11.jpg'
+import Img12_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img12.jpg'
+import Img13_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img13.jpg'
+import Img14_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img14.jpg'
+import Img15_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img15.jpg'
+import Img16_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img16.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -510,6 +527,86 @@ export default function Gallery() {
         id:83,
         imgSrc: Img15_pasta06,
         description: 'Oficina Estudo de Movimentos Afro com Prof. Monica.'
+        },
+        {
+        id:84,
+        imgSrc: Img1_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:85,
+        imgSrc: Img2_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:86,
+        imgSrc: Img3_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:87,
+        imgSrc: Img4_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:88,
+        imgSrc: Img5_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:89,
+        imgSrc: Img6_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:90,
+        imgSrc: Img7_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:91,
+        imgSrc: Img8_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:92,
+        imgSrc: Img9_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:93,
+        imgSrc: Img10_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:94,
+        imgSrc: Img11_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:95,
+        imgSrc: Img12_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:96,
+        imgSrc: Img13_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:97,
+        imgSrc: Img14_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:98,
+        imgSrc: Img15_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:99,
+        imgSrc: Img16_pasta07,
+        description: 'Oficina de Cabelos Afro - Professora Manuella.'
         },
     ]
 
