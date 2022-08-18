@@ -271,6 +271,9 @@ import Img69_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE B
 import Img70_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img70.jpg'
 import Img71_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img71.jpg'
 
+import Img1_pasta12 from '../../files/images/Fotos no livro/img1.jpg'
+import Img2_pasta12 from '../../files/images/Fotos no livro/img2.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -1553,6 +1556,16 @@ export default function Gallery() {
         id:255,
         imgSrc: Img71_pasta11,
         description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:256,
+        imgSrc: Img1_pasta12,
+        description: 'Fotos no livro.'
+        },
+        {
+        id:257,
+        imgSrc: Img2_pasta12,
+        description: 'Fotos no livro.'
         },
     ]
 
