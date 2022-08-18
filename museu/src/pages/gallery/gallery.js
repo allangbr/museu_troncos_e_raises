@@ -191,6 +191,14 @@ import Img8_pasta09 from '../../files/images/Oficina audiovisual com Cécili Cha
 import Img9_pasta09 from '../../files/images/Oficina audiovisual com Cécili Chagnaud (Parelhas)/img9.jpg'
 import Img10_pasta09 from '../../files/images/Oficina audiovisual com Cécili Chagnaud (Parelhas)/img10.jpg'
 
+import Img1_pasta10 from '../../files/images/Oficina AC Jr 2013/img1.jpg'
+import Img2_pasta10 from '../../files/images/Oficina AC Jr 2013/img2.jpg'
+import Img3_pasta10 from '../../files/images/Oficina AC Jr 2013/img3.jpg'
+import Img4_pasta10 from '../../files/images/Oficina AC Jr 2013/img4.jpg'
+import Img5_pasta10 from '../../files/images/Oficina AC Jr 2013/img5.jpg'
+import Img6_pasta10 from '../../files/images/Oficina AC Jr 2013/img6.jpg'
+import Img7_pasta10 from '../../files/images/Oficina AC Jr 2013/img7.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -1083,6 +1091,41 @@ export default function Gallery() {
         id:178,
         imgSrc: Img10_pasta09,
         description: 'Oficina audiovisual com Cécili Chagnaud (Parelhas).'
+        },
+        {
+        id:179,
+        imgSrc: Img1_pasta10,
+        description: 'Oficina AC Jr 2013.'
+        },
+        {
+        id:180,
+        imgSrc: Img2_pasta10,
+        description: 'Oficina AC Jr 2013.'
+        },
+        {
+        id:181,
+        imgSrc: Img3_pasta10,
+        description: 'Oficina AC Jr 2013.'
+        },
+        {
+        id:182,
+        imgSrc: Img4_pasta10,
+        description: 'Oficina AC Jr 2013.'
+        },
+        {
+        id:183,
+        imgSrc: Img5_pasta10,
+        description: 'Oficina AC Jr 2013.'
+        },
+        {
+        id:184,
+        imgSrc: Img6_pasta10,
+        description: 'Oficina AC Jr 2013.'
+        },
+        {
+        id:185,
+        imgSrc: Img7_pasta10,
+        description: 'Oficina AC Jr 2013.'
         },
     ]
 
