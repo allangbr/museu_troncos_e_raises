@@ -274,6 +274,46 @@ import Img71_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE B
 import Img1_pasta12 from '../../files/images/Fotos no livro/img1.jpg'
 import Img2_pasta12 from '../../files/images/Fotos no livro/img2.jpg'
 
+import Img1_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img1.jpg'
+import Img2_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img2.jpg'
+import Img3_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img3.jpg'
+import Img4_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img4.jpg'
+import Img5_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img5.jpg'
+import Img6_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img6.jpg'
+import Img7_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img7.jpg'
+import Img8_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img8.jpg'
+import Img9_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img9.jpg'
+import Img10_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img10.jpg'
+import Img11_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img11.jpg'
+import Img12_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img12.jpg'
+import Img13_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img13.jpg'
+import Img14_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img14.jpg'
+import Img15_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img15.jpg'
+import Img16_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img16.jpg'
+import Img17_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img17.jpg'
+import Img18_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img18.jpg'
+import Img19_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img19.jpg'
+import Img20_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img20.jpg'
+import Img21_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img21.jpg'
+import Img22_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img22.jpg'
+import Img23_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img23.jpg'
+import Img24_pasta13 from '../../files/images/Fotos do Albúm de D. Viturina/img24.jpg'
+
+import Img1_pasta14 from '../../files/images/fotos antigas/img1.jpg'
+import Img2_pasta14 from '../../files/images/fotos antigas/img2.jpg'
+import Img3_pasta14 from '../../files/images/fotos antigas/img3.jpg'
+import Img4_pasta14 from '../../files/images/fotos antigas/img4.jpg'
+import Img5_pasta14 from '../../files/images/fotos antigas/img5.jpg'
+import Img6_pasta14 from '../../files/images/fotos antigas/img6.jpg'
+import Img7_pasta14 from '../../files/images/fotos antigas/img7.jpg'
+import Img8_pasta14 from '../../files/images/fotos antigas/img8.jpg'
+import Img9_pasta14 from '../../files/images/fotos antigas/img9.jpg'
+import Img10_pasta14 from '../../files/images/fotos antigas/img10.jpg'
+import Img11_pasta14 from '../../files/images/fotos antigas/img11.jpg'
+import Img12_pasta14 from '../../files/images/fotos antigas/img12.jpg'
+import Img13_pasta14 from '../../files/images/fotos antigas/img13.jpg'
+import Img14_pasta14 from '../../files/images/fotos antigas/img14.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -1566,6 +1606,196 @@ export default function Gallery() {
         id:257,
         imgSrc: Img2_pasta12,
         description: 'Fotos no livro.'
+        },
+        {
+        id:258,
+        imgSrc: Img1_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:259,
+        imgSrc: Img2_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:260,
+        imgSrc: Img3_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:261,
+        imgSrc: Img4_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:262,
+        imgSrc: Img5_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:263,
+        imgSrc: Img6_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:264,
+        imgSrc: Img7_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:265,
+        imgSrc: Img8_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:266,
+        imgSrc: Img9_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:267,
+        imgSrc: Img10_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:268,
+        imgSrc: Img11_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:269,
+        imgSrc: Img12_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:270,
+        imgSrc: Img13_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:271,
+        imgSrc: Img14_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:272,
+        imgSrc: Img15_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:273,
+        imgSrc: Img16_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:274,
+        imgSrc: Img17_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:275,
+        imgSrc: Img18_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:276,
+        imgSrc: Img19_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:277,
+        imgSrc: Img20_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:278,
+        imgSrc: Img21_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:279,
+        imgSrc: Img22_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:280,
+        imgSrc: Img23_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:281,
+        imgSrc: Img24_pasta13,
+        description: 'Fotos do Albúm de D. Viturina.'
+        },
+        {
+        id:282,
+        imgSrc: Img1_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:283,
+        imgSrc: Img2_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:284,
+        imgSrc: Img3_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:285,
+        imgSrc: Img4_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:286,
+        imgSrc: Img5_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:287,
+        imgSrc: Img6_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:288,
+        imgSrc: Img7_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:289,
+        imgSrc: Img8_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:290,
+        imgSrc: Img9_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:291,
+        imgSrc: Img10_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:292,
+        imgSrc: Img11_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:293,
+        imgSrc: Img12_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:294,
+        imgSrc: Img13_pasta14,
+        description: 'Fotos Antigas.'
+        },
+        {
+        id:295,
+        imgSrc: Img14_pasta14,
+        description: 'Fotos Antigas.'
         },
     ]
 
