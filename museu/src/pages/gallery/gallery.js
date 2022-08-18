@@ -314,6 +314,20 @@ import Img12_pasta14 from '../../files/images/fotos antigas/img12.jpg'
 import Img13_pasta14 from '../../files/images/fotos antigas/img13.jpg'
 import Img14_pasta14 from '../../files/images/fotos antigas/img14.jpg'
 
+import Img1_pasta15 from '../../files/images/fotos Ac/img1.jpg'
+import Img2_pasta15 from '../../files/images/fotos Ac/img2.jpg'
+import Img3_pasta15 from '../../files/images/fotos Ac/img3.jpg'
+import Img4_pasta15 from '../../files/images/fotos Ac/img4.jpg'
+import Img5_pasta15 from '../../files/images/fotos Ac/img5.jpg'
+import Img6_pasta15 from '../../files/images/fotos Ac/img6.jpg'
+import Img7_pasta15 from '../../files/images/fotos Ac/img7.jpg'
+import Img8_pasta15 from '../../files/images/fotos Ac/img8.jpg'
+import Img9_pasta15 from '../../files/images/fotos Ac/img9.jpg'
+import Img10_pasta15 from '../../files/images/fotos Ac/img10.jpg'
+import Img11_pasta15 from '../../files/images/fotos Ac/img11.jpg'
+import Img12_pasta15 from '../../files/images/fotos Ac/img12.jpg'
+import Img13_pasta15 from '../../files/images/fotos Ac/img13.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -1796,6 +1810,71 @@ export default function Gallery() {
         id:295,
         imgSrc: Img14_pasta14,
         description: 'Fotos Antigas.'
+        },
+        {
+        id:296,
+        imgSrc: Img1_pasta15,
+        description: 'Fotos Ac.'
+        },
+        {
+        id:297,
+        imgSrc: Img2_pasta15,
+        description: 'Fotos Ac.'
+        },
+        {
+        id:298,
+        imgSrc: Img3_pasta15,
+        description: 'Fotos Ac.'
+        },
+        {
+        id:299,
+        imgSrc: Img4_pasta15,
+        description: 'Fotos Ac.'
+        },
+        {
+        id:300,
+        imgSrc: Img5_pasta15,
+        description: 'Fotos Ac.'
+        },
+        {
+        id:301,
+        imgSrc: Img6_pasta15,
+        description: 'Fotos Ac.'
+        },
+        {
+        id:302,
+        imgSrc: Img7_pasta15,
+        description: 'Fotos Ac.'
+        },
+        {
+        id:303,
+        imgSrc: Img8_pasta15,
+        description: 'Fotos Ac.'
+        },
+        {
+        id:304,
+        imgSrc: Img9_pasta15,
+        description: 'Fotos Ac.'
+        },
+        {
+        id:305,
+        imgSrc: Img10_pasta15,
+        description: 'Fotos Ac.'
+        },
+        {
+        id:306,
+        imgSrc: Img11_pasta15,
+        description: 'Fotos Ac.'
+        },
+        {
+        id:307,
+        imgSrc: Img12_pasta15,
+        description: 'Fotos Ac.'
+        },
+        {
+        id:308,
+        imgSrc: Img13_pasta15,
+        description: 'Fotos Ac.'
         },
     ]
 
