@@ -328,6 +328,38 @@ import Img11_pasta15 from '../../files/images/fotos Ac/img11.jpg'
 import Img12_pasta15 from '../../files/images/fotos Ac/img12.jpg'
 import Img13_pasta15 from '../../files/images/fotos Ac/img13.jpg'
 
+import Img1_pasta16 from '../../files/images/FotosAcJr/img1.jpg'
+import Img2_pasta16 from '../../files/images/FotosAcJr/img2.jpg'
+import Img3_pasta16 from '../../files/images/FotosAcJr/img3.jpg'
+import Img4_pasta16 from '../../files/images/FotosAcJr/img4.jpg'
+import Img5_pasta16 from '../../files/images/FotosAcJr/img5.jpg'
+import Img6_pasta16 from '../../files/images/FotosAcJr/img6.jpg'
+import Img7_pasta16 from '../../files/images/FotosAcJr/img7.jpg'
+import Img8_pasta16 from '../../files/images/FotosAcJr/img8.jpg'
+import Img9_pasta16 from '../../files/images/FotosAcJr/img9.jpg'
+import Img10_pasta16 from '../../files/images/FotosAcJr/img10.jpg'
+import Img11_pasta16 from '../../files/images/FotosAcJr/img11.jpg'
+import Img12_pasta16 from '../../files/images/FotosAcJr/img12.jpg'
+import Img13_pasta16 from '../../files/images/FotosAcJr/img13.jpg'
+import Img14_pasta16 from '../../files/images/FotosAcJr/img14.jpg'
+import Img15_pasta16 from '../../files/images/FotosAcJr/img15.jpg'
+import Img16_pasta16 from '../../files/images/FotosAcJr/img16.jpg'
+import Img17_pasta16 from '../../files/images/FotosAcJr/img17.jpg'
+import Img18_pasta16 from '../../files/images/FotosAcJr/img18.jpg'
+import Img19_pasta16 from '../../files/images/FotosAcJr/img19.jpg'
+import Img20_pasta16 from '../../files/images/FotosAcJr/img20.jpg'
+import Img21_pasta16 from '../../files/images/FotosAcJr/img21.jpg'
+import Img22_pasta16 from '../../files/images/FotosAcJr/img22.jpg'
+import Img23_pasta16 from '../../files/images/FotosAcJr/img23.jpg'
+import Img24_pasta16 from '../../files/images/FotosAcJr/img24.jpg'
+import Img25_pasta16 from '../../files/images/FotosAcJr/img25.jpg'
+import Img26_pasta16 from '../../files/images/FotosAcJr/img26.jpg'
+import Img27_pasta16 from '../../files/images/FotosAcJr/img27.jpg'
+import Img28_pasta16 from '../../files/images/FotosAcJr/img28.jpg'
+import Img29_pasta16 from '../../files/images/FotosAcJr/img29.jpg'
+import Img30_pasta16 from '../../files/images/FotosAcJr/img30.jpg'
+import Img31_pasta16 from '../../files/images/FotosAcJr/img31.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -1875,6 +1907,161 @@ export default function Gallery() {
         id:308,
         imgSrc: Img13_pasta15,
         description: 'Fotos Ac.'
+        },
+        {
+        id:309,
+        imgSrc: Img1_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:310,
+        imgSrc: Img2_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:311,
+        imgSrc: Img3_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:312,
+        imgSrc: Img4_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:313,
+        imgSrc: Img5_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:314,
+        imgSrc: Img6_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:315,
+        imgSrc: Img7_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:316,
+        imgSrc: Img8_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:317,
+        imgSrc: Img9_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:318,
+        imgSrc: Img10_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:319,
+        imgSrc: Img11_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:320,
+        imgSrc: Img12_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:321,
+        imgSrc: Img13_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:322,
+        imgSrc: Img14_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:323,
+        imgSrc: Img15_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:324,
+        imgSrc: Img16_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:325,
+        imgSrc: Img17_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:326,
+        imgSrc: Img18_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:327,
+        imgSrc: Img19_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:328,
+        imgSrc: Img20_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:329,
+        imgSrc: Img21_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:330,
+        imgSrc: Img22_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:331,
+        imgSrc: Img23_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:332,
+        imgSrc: Img24_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:333,
+        imgSrc: Img25_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:334,
+        imgSrc: Img26_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:335,
+        imgSrc: Img27_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:336,
+        imgSrc: Img28_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:337,
+        imgSrc: Img29_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:338,
+        imgSrc: Img30_pasta16,
+        description: 'Fotos Ac Jr.'
+        },
+        {
+        id:339,
+        imgSrc: Img31_pasta16,
+        description: 'Fotos Ac Jr.'
         },
     ]
 
