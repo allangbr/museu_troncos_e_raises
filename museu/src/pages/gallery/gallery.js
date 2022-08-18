@@ -199,6 +199,78 @@ import Img5_pasta10 from '../../files/images/Oficina AC Jr 2013/img5.jpg'
 import Img6_pasta10 from '../../files/images/Oficina AC Jr 2013/img6.jpg'
 import Img7_pasta10 from '../../files/images/Oficina AC Jr 2013/img7.jpg'
 
+import Img1_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img1.jpg'
+import Img2_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img2.jpg'
+import Img3_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img3.jpg'
+import Img4_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img4.jpg'
+import Img5_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img5.jpg'
+import Img6_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img6.jpg'
+import Img7_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img7.jpg'
+import Img8_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img8.jpg'
+import Img9_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img9.jpg'
+import Img10_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img10.jpg'
+import Img11_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img11.jpg'
+import Img12_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img12.jpg'
+import Img13_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img13.jpg'
+import Img14_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img14.jpg'
+import Img15_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img15.jpg'
+import Img16_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img16.jpg'
+import Img17_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img17.jpg'
+import Img18_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img18.jpg'
+import Img19_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img19.jpg'
+import Img20_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img20.jpg'
+import Img21_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img21.jpg'
+import Img22_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img22.jpg'
+import Img23_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img23.jpg'
+import Img24_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img24.jpg'
+import Img25_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img25.jpg'
+import Img26_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img26.jpg'
+import Img27_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img27.jpg'
+import Img28_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img28.jpg'
+import Img29_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img29.jpg'
+import Img30_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img30.jpg'
+import Img31_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img31.jpg'
+import Img32_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img32.jpg'
+import Img33_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img33.jpg'
+import Img34_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img34.jpg'
+import Img35_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img35.jpg'
+import Img36_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img36.jpg'
+import Img37_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img37.jpg'
+import Img38_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img38.jpg'
+import Img39_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img39.jpg'
+import Img40_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img40.jpg'
+import Img41_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img41.jpg'
+import Img42_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img42.jpg'
+import Img43_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img43.jpg'
+import Img44_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img44.jpg'
+import Img45_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img45.jpg'
+import Img46_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img46.jpg'
+import Img47_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img47.jpg'
+import Img48_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img48.jpg'
+import Img49_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img49.jpg'
+import Img50_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img50.jpg'
+import Img51_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img51.jpg'
+import Img52_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img52.jpg'
+import Img53_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img53.jpg'
+import Img54_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img54.jpg'
+import Img55_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img55.jpg'
+import Img56_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img56.jpg'
+import Img57_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img57.jpg'
+import Img58_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img58.jpg'
+import Img59_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img59.jpg'
+import Img60_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img60.jpg'
+import Img61_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img61.jpg'
+import Img62_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img62.jpg'
+import Img63_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img63.jpg'
+import Img64_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img64.jpg'
+import Img65_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img65.jpg'
+import Img66_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img66.jpg'
+import Img67_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img67.jpg'
+import Img68_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img68.jpg'
+import Img69_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img69.jpg'
+import Img70_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img70.jpg'
+import Img71_pasta11 from '../../files/images/I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS/img71.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -1126,6 +1198,361 @@ export default function Gallery() {
         id:185,
         imgSrc: Img7_pasta10,
         description: 'Oficina AC Jr 2013.'
+        },
+        {
+        id:186,
+        imgSrc: Img1_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:187,
+        imgSrc: Img2_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:188,
+        imgSrc: Img3_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:189,
+        imgSrc: Img4_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:190,
+        imgSrc: Img5_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:191,
+        imgSrc: Img6_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:192,
+        imgSrc: Img7_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:193,
+        imgSrc: Img8_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:194,
+        imgSrc: Img9_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:195,
+        imgSrc: Img10_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:196,
+        imgSrc: Img11_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:197,
+        imgSrc: Img12_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:198,
+        imgSrc: Img13_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:199,
+        imgSrc: Img14_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:200,
+        imgSrc: Img15_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:201,
+        imgSrc: Img16_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:201,
+        imgSrc: Img17_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:202,
+        imgSrc: Img18_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:203,
+        imgSrc: Img19_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:204,
+        imgSrc: Img20_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:205,
+        imgSrc: Img21_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:206,
+        imgSrc: Img22_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:207,
+        imgSrc: Img23_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:208,
+        imgSrc: Img24_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:209,
+        imgSrc: Img25_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:210,
+        imgSrc: Img26_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:211,
+        imgSrc: Img27_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:212,
+        imgSrc: Img28_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:213,
+        imgSrc: Img29_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:214,
+        imgSrc: Img30_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:215,
+        imgSrc: Img31_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:216,
+        imgSrc: Img32_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:217,
+        imgSrc: Img33_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:218,
+        imgSrc: Img34_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:219,
+        imgSrc: Img35_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:220,
+        imgSrc: Img36_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:221,
+        imgSrc: Img37_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:222,
+        imgSrc: Img38_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:223,
+        imgSrc: Img39_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:224,
+        imgSrc: Img40_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:225,
+        imgSrc: Img41_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:226,
+        imgSrc: Img42_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:227,
+        imgSrc: Img43_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:228,
+        imgSrc: Img44_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:229,
+        imgSrc: Img45_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:230,
+        imgSrc: Img46_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:231,
+        imgSrc: Img47_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:232,
+        imgSrc: Img48_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:233,
+        imgSrc: Img49_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:234,
+        imgSrc: Img50_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:235,
+        imgSrc: Img51_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:236,
+        imgSrc: Img52_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:237,
+        imgSrc: Img53_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:238,
+        imgSrc: Img54_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:239,
+        imgSrc: Img55_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:240,
+        imgSrc: Img56_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:241,
+        imgSrc: Img57_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:242,
+        imgSrc: Img58_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:243,
+        imgSrc: Img59_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:244,
+        imgSrc: Img60_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:245,
+        imgSrc: Img61_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:246,
+        imgSrc: Img62_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:247,
+        imgSrc: Img63_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:248,
+        imgSrc: Img64_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:249,
+        imgSrc: Img65_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:250,
+        imgSrc: Img66_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:251,
+        imgSrc: Img67_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:252,
+        imgSrc: Img68_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:253,
+        imgSrc: Img69_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:254,
+        imgSrc: Img70_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
+        },
+        {
+        id:255,
+        imgSrc: Img71_pasta11,
+        description: 'I SEMANA DA CONSCIENCIA NEGRA DE BOA VISTA DOS NEGROS.'
         },
     ]
 
