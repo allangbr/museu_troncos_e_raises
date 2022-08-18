@@ -110,6 +110,76 @@ import Img14_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professo
 import Img15_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img15.jpg'
 import Img16_pasta07 from '../../files/images/Oficina de Cabelos Afro - Professora Manuella/img16.jpg'
 
+import Img1_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img1.jpg'
+import Img2_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img2.jpg'
+import Img3_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img3.jpg'
+import Img4_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img4.jpg'
+import Img5_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img5.jpg'
+import Img6_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img6.jpg'
+import Img7_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img7.jpg'
+import Img8_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img8.jpg'
+import Img9_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img9.jpg'
+import Img10_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img10.jpg'
+import Img11_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img11.jpg'
+import Img12_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img12.jpg'
+import Img13_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img13.jpg'
+import Img14_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img14.jpg'
+import Img15_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img15.jpg'
+import Img16_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img16.jpg'
+import Img17_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img17.jpg'
+import Img18_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img18.jpg'
+import Img19_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img19.jpg'
+import Img20_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img20.jpg'
+import Img21_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img21.jpg'
+import Img22_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img22.jpg'
+import Img23_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img23.jpg'
+import Img24_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img24.jpg'
+import Img25_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img25.jpg'
+import Img26_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img26.jpg'
+import Img27_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img27.jpg'
+import Img28_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img28.jpg'
+import Img29_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img29.jpg'
+import Img30_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img30.jpg'
+import Img31_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img31.jpg'
+import Img32_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img32.jpg'
+import Img33_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img33.jpg'
+import Img34_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img34.jpg'
+import Img35_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img35.jpg'
+import Img36_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img36.jpg'
+import Img37_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img37.jpg'
+import Img38_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img38.jpg'
+import Img39_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img39.jpg'
+import Img40_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img40.jpg'
+import Img41_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img41.jpg'
+import Img42_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img42.jpg'
+import Img43_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img43.jpg'
+import Img44_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img44.jpg'
+import Img45_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img45.jpg'
+import Img46_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img46.jpg'
+import Img47_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img47.jpg'
+import Img48_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img48.jpg'
+import Img49_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img49.jpg'
+import Img50_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img50.jpg'
+import Img51_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img51.jpg'
+import Img52_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img52.jpg'
+import Img53_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img53.jpg'
+import Img54_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img54.jpg'
+import Img55_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img55.jpg'
+import Img56_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img56.jpg'
+import Img57_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img57.jpg'
+import Img58_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img58.jpg'
+import Img59_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img59.jpg'
+import Img60_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img60.jpg'
+import Img61_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img61.jpg'
+import Img62_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img62.jpg'
+import Img63_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img63.jpg'
+import Img64_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img64.jpg'
+import Img65_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img65.jpg'
+import Img66_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img66.jpg'
+import Img67_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img67.jpg'
+import Img68_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img68.jpg'
+import Img69_pasta08 from '../../files/images/Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó/img69.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -607,6 +677,351 @@ export default function Gallery() {
         id:99,
         imgSrc: Img16_pasta07,
         description: 'Oficina de Cabelos Afro - Professora Manuella.'
+        },
+        {
+        id:100,
+        imgSrc: Img1_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:101,
+        imgSrc: Img2_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:102,
+        imgSrc: Img3_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:103,
+        imgSrc: Img4_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:104,
+        imgSrc: Img5_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:105,
+        imgSrc: Img6_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:106,
+        imgSrc: Img7_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:107,
+        imgSrc: Img8_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:108,
+        imgSrc: Img9_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:109,
+        imgSrc: Img10_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:110,
+        imgSrc: Img11_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:111,
+        imgSrc: Img12_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:112,
+        imgSrc: Img13_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:113,
+        imgSrc: Img14_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:114,
+        imgSrc: Img15_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:115,
+        imgSrc: Img16_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:116,
+        imgSrc: Img17_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:117,
+        imgSrc: Img18_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:118,
+        imgSrc: Img19_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:119,
+        imgSrc: Img20_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:120,
+        imgSrc: Img21_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:121,
+        imgSrc: Img22_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:122,
+        imgSrc: Img23_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:123,
+        imgSrc: Img24_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:124,
+        imgSrc: Img25_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:125,
+        imgSrc: Img26_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:126,
+        imgSrc: Img27_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:127,
+        imgSrc: Img28_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:128,
+        imgSrc: Img29_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:129,
+        imgSrc: Img30_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:130,
+        imgSrc: Img31_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:131,
+        imgSrc: Img32_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:132,
+        imgSrc: Img33_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:133,
+        imgSrc: Img34_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:134,
+        imgSrc: Img35_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:135,
+        imgSrc: Img36_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:136,
+        imgSrc: Img37_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:137,
+        imgSrc: Img38_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:138,
+        imgSrc: Img39_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:139,
+        imgSrc: Img40_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:140,
+        imgSrc: Img41_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:141,
+        imgSrc: Img42_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:142,
+        imgSrc: Img43_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:143,
+        imgSrc: Img44_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:144,
+        imgSrc: Img45_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:145,
+        imgSrc: Img46_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:146,
+        imgSrc: Img47_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:147,
+        imgSrc: Img48_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:148,
+        imgSrc: Img49_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:149,
+        imgSrc: Img50_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:150,
+        imgSrc: Img51_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:151,
+        imgSrc: Img52_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:152,
+        imgSrc: Img53_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:153,
+        imgSrc: Img54_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:154,
+        imgSrc: Img55_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:155,
+        imgSrc: Img56_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:156,
+        imgSrc: Img57_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:157,
+        imgSrc: Img58_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:158,
+        imgSrc: Img59_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:159,
+        imgSrc: Img60_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:160,
+        imgSrc: Img61_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:161,
+        imgSrc: Img62_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:162,
+        imgSrc: Img63_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:163,
+        imgSrc: Img64_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:164,
+        imgSrc: Img65_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:165,
+        imgSrc: Img66_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:166,
+        imgSrc: Img67_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:167,
+        imgSrc: Img68_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
+        },
+        {
+        id:168,
+        imgSrc: Img69_pasta08,
+        description: 'Oficina de Arqueologia - 18 a 20-05 Boa Vista e Maracujá -Seridó.'
         },
     ]
 
