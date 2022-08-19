@@ -630,6 +630,14 @@ import Img4_pasta29 from '../../files/images/Ac FOTOSOFICINAS/img4.jpg'
 import Img5_pasta29 from '../../files/images/Ac FOTOSOFICINAS/img5.jpg'
 import Img6_pasta29 from '../../files/images/Ac FOTOSOFICINAS/img6.jpg'
 
+import Img1_pasta30 from '../../files/images/29 de abril 2013/img1.jpg'
+import Img2_pasta30 from '../../files/images/29 de abril 2013/img2.jpg'
+import Img3_pasta30 from '../../files/images/29 de abril 2013/img3.jpg'
+import Img4_pasta30 from '../../files/images/29 de abril 2013/img4.jpg'
+import Img5_pasta30 from '../../files/images/29 de abril 2013/img5.jpg'
+import Img6_pasta30 from '../../files/images/29 de abril 2013/img6.jpg'
+import Img7_pasta30 from '../../files/images/29 de abril 2013/img7.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3617,6 +3625,41 @@ export default function Gallery() {
         id:596,
         imgSrc: Img6_pasta29,
         description: 'AC Fotos Oficinas.'
+        },
+        {
+        id:597,
+        imgSrc: Img1_pasta30,
+        description: '29 de abril 2013.'
+        },
+        {
+        id:598,
+        imgSrc: Img2_pasta30,
+        description: '29 de abril 2013.'
+        },
+        {
+        id:599,
+        imgSrc: Img3_pasta30,
+        description: '29 de abril 2013.'
+        },
+        {
+        id:600,
+        imgSrc: Img4_pasta30,
+        description: '29 de abril 2013.'
+        },
+        {
+        id:601,
+        imgSrc: Img5_pasta30,
+        description: '29 de abril 2013.'
+        },
+        {
+        id:602,
+        imgSrc: Img6_pasta30,
+        description: '29 de abril 2013.'
+        },
+        {
+        id:603,
+        imgSrc: Img7_pasta30,
+        description: '29 de abril 2013.'
         },
     ]
 
