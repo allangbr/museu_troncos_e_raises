@@ -571,6 +571,14 @@ import Img10_pasta22 from '../../files/images/Documentário A cruz da negra - Ja
 import Img11_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img11.jpg'
 import Img12_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img12.jpg'
 
+import Img1_pasta23 from '../../files/images/Currais Novos/img1.jpg'
+import Img2_pasta23 from '../../files/images/Currais Novos/img2.jpg'
+import Img3_pasta23 from '../../files/images/Currais Novos/img3.jpg'
+import Img4_pasta23 from '../../files/images/Currais Novos/img4.jpg'
+import Img5_pasta23 from '../../files/images/Currais Novos/img5.jpg'
+import Img6_pasta23 from '../../files/images/Currais Novos/img6.jpg'
+import Img7_pasta23 from '../../files/images/Currais Novos/img7.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3298,6 +3306,41 @@ export default function Gallery() {
         id:544,
         imgSrc: Img12_pasta22,
         description: 'Documentário A cruz da negra - Jardim do Seridó.'
+        },
+        {
+        id:545,
+        imgSrc: Img1_pasta23,
+        description: 'Currais Novos.'
+        },
+        {
+        id:546,
+        imgSrc: Img2_pasta23,
+        description: 'Currais Novos.'
+        },
+        {
+        id:547,
+        imgSrc: Img3_pasta23,
+        description: 'Currais Novos.'
+        },
+        {
+        id:548,
+        imgSrc: Img4_pasta23,
+        description: 'Currais Novos.'
+        },
+        {
+        id:549,
+        imgSrc: Img5_pasta23,
+        description: 'Currais Novos.'
+        },
+        {
+        id:550,
+        imgSrc: Img6_pasta23,
+        description: 'Currais Novos.'
+        },
+        {
+        id:551,
+        imgSrc: Img7_pasta23,
+        description: 'Currais Novos.'
         },
     ]
 
