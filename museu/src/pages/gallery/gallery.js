@@ -539,6 +539,25 @@ import Img5_pasta20 from '../../files/images/Exibição do filme _A Cruz da Negr
 import Img6_pasta20 from '../../files/images/Exibição do filme _A Cruz da Negra_ - Boa Vista/img6.jpg'
 import Img7_pasta20 from '../../files/images/Exibição do filme _A Cruz da Negra_ - Boa Vista/img7.jpg'
 
+import Img1_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img1.jpg'
+import Img2_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img2.jpg'
+import Img3_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img3.jpg'
+import Img4_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img4.jpg'
+import Img5_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img5.jpg'
+import Img6_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img6.jpg'
+import Img7_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img7.jpg'
+import Img8_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img8.jpg'
+import Img9_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img9.jpg'
+import Img10_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img10.jpg'
+import Img11_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img11.jpg'
+import Img12_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img12.jpg'
+import Img13_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img13.jpg'
+import Img14_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img14.jpg'
+import Img15_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img15.jpg'
+import Img16_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img16.jpg'
+import Img17_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img17.jpg'
+import Img18_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img18.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3116,6 +3135,96 @@ export default function Gallery() {
         id:514,
         imgSrc: Img7_pasta20,
         description: 'Exibição do filme _A Cruz da Negra_ - Boa Vista.'
+        },
+        {
+        id:515,
+        imgSrc: Img1_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:516,
+        imgSrc: Img2_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:517,
+        imgSrc: Img3_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:518,
+        imgSrc: Img4_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:519,
+        imgSrc: Img5_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:520,
+        imgSrc: Img6_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:521,
+        imgSrc: Img7_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:522,
+        imgSrc: Img8_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:523,
+        imgSrc: Img9_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:524,
+        imgSrc: Img10_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:525,
+        imgSrc: Img11_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:526,
+        imgSrc: Img12_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:527,
+        imgSrc: Img13_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:528,
+        imgSrc: Img14_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:529,
+        imgSrc: Img15_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:530,
+        imgSrc: Img16_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:531,
+        imgSrc: Img17_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:532,
+        imgSrc: Img18_pasta21,
+        description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
         },
     ]
 
