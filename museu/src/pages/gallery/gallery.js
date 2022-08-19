@@ -623,6 +623,13 @@ import Img12_pasta28 from '../../files/images/Acari 2/img12.jpg'
 import Img13_pasta28 from '../../files/images/Acari 2/img13.jpg'
 import Img14_pasta28 from '../../files/images/Acari 2/img14.jpg'
 
+import Img1_pasta29 from '../../files/images/Ac FOTOSOFICINAS/img1.jpg'
+import Img2_pasta29 from '../../files/images/Ac FOTOSOFICINAS/img2.jpg'
+import Img3_pasta29 from '../../files/images/Ac FOTOSOFICINAS/img3.jpg'
+import Img4_pasta29 from '../../files/images/Ac FOTOSOFICINAS/img4.jpg'
+import Img5_pasta29 from '../../files/images/Ac FOTOSOFICINAS/img5.jpg'
+import Img6_pasta29 from '../../files/images/Ac FOTOSOFICINAS/img6.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3580,6 +3587,36 @@ export default function Gallery() {
         id:590,
         imgSrc: Img14_pasta28,
         description: 'Acari 2.'
+        },
+        {
+        id:591,
+        imgSrc: Img1_pasta29,
+        description: 'AC Fotos Oficinas.'
+        },
+        {
+        id:592,
+        imgSrc: Img2_pasta29,
+        description: 'AC Fotos Oficinas.'
+        },
+        {
+        id:593,
+        imgSrc: Img3_pasta29,
+        description: 'AC Fotos Oficinas.'
+        },
+        {
+        id:594,
+        imgSrc: Img4_pasta29,
+        description: 'AC Fotos Oficinas.'
+        },
+        {
+        id:595,
+        imgSrc: Img5_pasta29,
+        description: 'AC Fotos Oficinas.'
+        },
+        {
+        id:596,
+        imgSrc: Img6_pasta29,
+        description: 'AC Fotos Oficinas.'
         },
     ]
 
