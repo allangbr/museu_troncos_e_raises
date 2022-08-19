@@ -558,6 +558,19 @@ import Img16_pasta21 from '../../files/images/Encerramento da Primavera do Museu
 import Img17_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img17.jpg'
 import Img18_pasta21 from '../../files/images/Encerramento da Primavera do Museu - Jardim do Seridó 2013/img18.jpg'
 
+import Img1_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img1.jpg'
+import Img2_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img2.jpg'
+import Img3_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img3.jpg'
+import Img4_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img4.jpg'
+import Img5_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img5.jpg'
+import Img6_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img6.jpg'
+import Img7_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img7.jpg'
+import Img8_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img8.jpg'
+import Img9_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img9.jpg'
+import Img10_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img10.jpg'
+import Img11_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img11.jpg'
+import Img12_pasta22 from '../../files/images/Documentário A cruz da negra - Jardim do Seridó/img12.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3225,6 +3238,66 @@ export default function Gallery() {
         id:532,
         imgSrc: Img18_pasta21,
         description: 'Encerramento da Primavera do Museu - Jardim do Seridó 2013.'
+        },
+        {
+        id:533,
+        imgSrc: Img1_pasta22,
+        description: 'Documentário A cruz da negra - Jardim do Seridó.'
+        },
+        {
+        id:534,
+        imgSrc: Img2_pasta22,
+        description: 'Documentário A cruz da negra - Jardim do Seridó.'
+        },
+        {
+        id:535,
+        imgSrc: Img3_pasta22,
+        description: 'Documentário A cruz da negra - Jardim do Seridó.'
+        },
+        {
+        id:536,
+        imgSrc: Img4_pasta22,
+        description: 'Documentário A cruz da negra - Jardim do Seridó.'
+        },
+        {
+        id:537,
+        imgSrc: Img5_pasta22,
+        description: 'Documentário A cruz da negra - Jardim do Seridó.'
+        },
+        {
+        id:538,
+        imgSrc: Img6_pasta22,
+        description: 'Documentário A cruz da negra - Jardim do Seridó.'
+        },
+        {
+        id:539,
+        imgSrc: Img7_pasta22,
+        description: 'Documentário A cruz da negra - Jardim do Seridó.'
+        },
+        {
+        id:540,
+        imgSrc: Img8_pasta22,
+        description: 'Documentário A cruz da negra - Jardim do Seridó.'
+        },
+        {
+        id:541,
+        imgSrc: Img9_pasta22,
+        description: 'Documentário A cruz da negra - Jardim do Seridó.'
+        },
+        {
+        id:542,
+        imgSrc: Img10_pasta22,
+        description: 'Documentário A cruz da negra - Jardim do Seridó.'
+        },
+        {
+        id:543,
+        imgSrc: Img11_pasta22,
+        description: 'Documentário A cruz da negra - Jardim do Seridó.'
+        },
+        {
+        id:544,
+        imgSrc: Img12_pasta22,
+        description: 'Documentário A cruz da negra - Jardim do Seridó.'
         },
     ]
 
