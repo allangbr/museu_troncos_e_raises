@@ -662,6 +662,35 @@ import Img21_pasta31 from '../../files/images/24 de Julho de 2012/img21.jpg'
 import Img22_pasta31 from '../../files/images/24 de Julho de 2012/img22.jpg'
 import Img23_pasta31 from '../../files/images/24 de Julho de 2012/img23.jpg'
 
+import Img1_pasta32 from '../../files/images/20 de setembro 2012/img1.jpg'
+import Img2_pasta32 from '../../files/images/20 de setembro 2012/img2.jpg'
+import Img3_pasta32 from '../../files/images/20 de setembro 2012/img3.jpg'
+import Img4_pasta32 from '../../files/images/20 de setembro 2012/img4.jpg'
+import Img5_pasta32 from '../../files/images/20 de setembro 2012/img5.jpg'
+import Img6_pasta32 from '../../files/images/20 de setembro 2012/img6.jpg'
+import Img7_pasta32 from '../../files/images/20 de setembro 2012/img7.jpg'
+import Img8_pasta32 from '../../files/images/20 de setembro 2012/img8.jpg'
+import Img9_pasta32 from '../../files/images/20 de setembro 2012/img9.jpg'
+import Img10_pasta32 from '../../files/images/20 de setembro 2012/img10.jpg'
+import Img11_pasta32 from '../../files/images/20 de setembro 2012/img11.jpg'
+import Img12_pasta32 from '../../files/images/20 de setembro 2012/img12.jpg'
+import Img13_pasta32 from '../../files/images/20 de setembro 2012/img13.jpg'
+import Img14_pasta32 from '../../files/images/20 de setembro 2012/img14.jpg'
+import Img15_pasta32 from '../../files/images/20 de setembro 2012/img15.jpg'
+import Img16_pasta32 from '../../files/images/20 de setembro 2012/img16.jpg'
+import Img17_pasta32 from '../../files/images/20 de setembro 2012/img17.jpg'
+import Img18_pasta32 from '../../files/images/20 de setembro 2012/img18.jpg'
+import Img19_pasta32 from '../../files/images/20 de setembro 2012/img19.jpg'
+import Img20_pasta32 from '../../files/images/20 de setembro 2012/img20.jpg'
+import Img21_pasta32 from '../../files/images/20 de setembro 2012/img21.jpg'
+import Img22_pasta32 from '../../files/images/20 de setembro 2012/img22.jpg'
+import Img23_pasta32 from '../../files/images/20 de setembro 2012/img23.jpg'
+import Img24_pasta32 from '../../files/images/20 de setembro 2012/img24.jpg'
+import Img25_pasta32 from '../../files/images/20 de setembro 2012/img25.jpg'
+import Img26_pasta32 from '../../files/images/20 de setembro 2012/img26.jpg'
+import Img27_pasta32 from '../../files/images/20 de setembro 2012/img27.jpg'
+import Img28_pasta32 from '../../files/images/20 de setembro 2012/img28.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3799,6 +3828,146 @@ export default function Gallery() {
         id:626,
         imgSrc: Img23_pasta31,
         description: '24 de Julho de 2012.'
+        },
+        {
+        id:627,
+        imgSrc: Img1_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:628,
+        imgSrc: Img2_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:629,
+        imgSrc: Img3_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:630,
+        imgSrc: Img4_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:631,
+        imgSrc: Img5_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:632,
+        imgSrc: Img6_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:633,
+        imgSrc: Img7_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:634,
+        imgSrc: Img8_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:635,
+        imgSrc: Img9_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:636,
+        imgSrc: Img10_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:637,
+        imgSrc: Img11_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:638,
+        imgSrc: Img12_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:639,
+        imgSrc: Img13_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:640,
+        imgSrc: Img14_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:641,
+        imgSrc: Img15_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:642,
+        imgSrc: Img16_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:643,
+        imgSrc: Img17_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:644,
+        imgSrc: Img18_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:645,
+        imgSrc: Img19_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:646,
+        imgSrc: Img20_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:647,
+        imgSrc: Img21_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:648,
+        imgSrc: Img22_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:649,
+        imgSrc: Img23_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:650,
+        imgSrc: Img24_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:651,
+        imgSrc: Img25_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:652,
+        imgSrc: Img26_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:653,
+        imgSrc: Img27_pasta32,
+        description: '20 de setembro 2012.'
+        },
+        {
+        id:654,
+        imgSrc: Img28_pasta32,
+        description: '20 de setembro 2012.'
         },
     ]
 
