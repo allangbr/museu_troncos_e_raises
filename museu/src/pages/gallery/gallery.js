@@ -579,6 +579,13 @@ import Img5_pasta23 from '../../files/images/Currais Novos/img5.jpg'
 import Img6_pasta23 from '../../files/images/Currais Novos/img6.jpg'
 import Img7_pasta23 from '../../files/images/Currais Novos/img7.jpg'
 
+import Img1_pasta24 from '../../files/images/Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais)/img1.jpg'
+import Img2_pasta24 from '../../files/images/Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais)/img2.jpg'
+import Img3_pasta24 from '../../files/images/Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais)/img3.jpg'
+import Img4_pasta24 from '../../files/images/Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais)/img4.jpg'
+import Img5_pasta24 from '../../files/images/Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais)/img5.jpg'
+import Img6_pasta24 from '../../files/images/Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais)/img6.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3341,6 +3348,36 @@ export default function Gallery() {
         id:551,
         imgSrc: Img7_pasta23,
         description: 'Currais Novos.'
+        },
+        {
+        id:552,
+        imgSrc: Img1_pasta24,
+        description: 'Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais).'
+        },
+        {
+        id:553,
+        imgSrc: Img2_pasta24,
+        description: 'Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais).'
+        },
+        {
+        id:554,
+        imgSrc: Img3_pasta24,
+        description: 'Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais).'
+        },
+        {
+        id:555,
+        imgSrc: Img4_pasta24,
+        description: 'Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais).'
+        },
+        {
+        id:556,
+        imgSrc: Img5_pasta24,
+        description: 'Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais).'
+        },
+        {
+        id:557,
+        imgSrc: Img6_pasta24,
+        description: 'Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais).'
         },
     ]
 
