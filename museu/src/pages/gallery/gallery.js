@@ -638,6 +638,30 @@ import Img5_pasta30 from '../../files/images/29 de abril 2013/img5.jpg'
 import Img6_pasta30 from '../../files/images/29 de abril 2013/img6.jpg'
 import Img7_pasta30 from '../../files/images/29 de abril 2013/img7.jpg'
 
+import Img1_pasta31 from '../../files/images/24 de Julho de 2012/img1.jpg'
+import Img2_pasta31 from '../../files/images/24 de Julho de 2012/img2.jpg'
+import Img3_pasta31 from '../../files/images/24 de Julho de 2012/img3.jpg'
+import Img4_pasta31 from '../../files/images/24 de Julho de 2012/img4.jpg'
+import Img5_pasta31 from '../../files/images/24 de Julho de 2012/img5.jpg'
+import Img6_pasta31 from '../../files/images/24 de Julho de 2012/img6.jpg'
+import Img7_pasta31 from '../../files/images/24 de Julho de 2012/img7.jpg'
+import Img8_pasta31 from '../../files/images/24 de Julho de 2012/img8.jpg'
+import Img9_pasta31 from '../../files/images/24 de Julho de 2012/img9.jpg'
+import Img10_pasta31 from '../../files/images/24 de Julho de 2012/img10.jpg'
+import Img11_pasta31 from '../../files/images/24 de Julho de 2012/img11.jpg'
+import Img12_pasta31 from '../../files/images/24 de Julho de 2012/img12.jpg'
+import Img13_pasta31 from '../../files/images/24 de Julho de 2012/img13.jpg'
+import Img14_pasta31 from '../../files/images/24 de Julho de 2012/img14.jpg'
+import Img15_pasta31 from '../../files/images/24 de Julho de 2012/img15.jpg'
+import Img16_pasta31 from '../../files/images/24 de Julho de 2012/img16.jpg'
+import Img17_pasta31 from '../../files/images/24 de Julho de 2012/img17.jpg'
+import Img18_pasta31 from '../../files/images/24 de Julho de 2012/img18.jpg'
+import Img19_pasta31 from '../../files/images/24 de Julho de 2012/img19.jpg'
+import Img20_pasta31 from '../../files/images/24 de Julho de 2012/img20.jpg'
+import Img21_pasta31 from '../../files/images/24 de Julho de 2012/img21.jpg'
+import Img22_pasta31 from '../../files/images/24 de Julho de 2012/img22.jpg'
+import Img23_pasta31 from '../../files/images/24 de Julho de 2012/img23.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3660,6 +3684,121 @@ export default function Gallery() {
         id:603,
         imgSrc: Img7_pasta30,
         description: '29 de abril 2013.'
+        },
+         {
+        id:604,
+        imgSrc: Img1_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:605,
+        imgSrc: Img2_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:606,
+        imgSrc: Img3_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:607,
+        imgSrc: Img4_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:608,
+        imgSrc: Img5_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:609,
+        imgSrc: Img6_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:610,
+        imgSrc: Img7_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:611,
+        imgSrc: Img8_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:612,
+        imgSrc: Img9_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:613,
+        imgSrc: Img10_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:614,
+        imgSrc: Img11_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:615,
+        imgSrc: Img12_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:616,
+        imgSrc: Img13_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:617,
+        imgSrc: Img14_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:618,
+        imgSrc: Img15_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:619,
+        imgSrc: Img16_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:620,
+        imgSrc: Img17_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:621,
+        imgSrc: Img18_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:622,
+        imgSrc: Img19_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:623,
+        imgSrc: Img20_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:624,
+        imgSrc: Img21_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:625,
+        imgSrc: Img22_pasta31,
+        description: '24 de Julho de 2012.'
+        },
+        {
+        id:626,
+        imgSrc: Img23_pasta31,
+        description: '24 de Julho de 2012.'
         },
     ]
 
