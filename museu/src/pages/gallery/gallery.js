@@ -600,6 +600,14 @@ import Img6_pasta26 from '../../files/images/Apresentação na feira - Currais N
 import Img7_pasta26 from '../../files/images/Apresentação na feira - Currais Novos - 31 de outubro 2012/img7.jpg'
 import Img8_pasta26 from '../../files/images/Apresentação na feira - Currais Novos - 31 de outubro 2012/img8.jpg'
 
+import Img1_pasta27 from '../../files/images/AcRosário/img1.jpg'
+import Img2_pasta27 from '../../files/images/AcRosário/img2.jpg'
+import Img3_pasta27 from '../../files/images/AcRosário/img3.jpg'
+import Img4_pasta27 from '../../files/images/AcRosário/img4.jpg'
+import Img5_pasta27 from '../../files/images/AcRosário/img5.jpg'
+import Img6_pasta27 from '../../files/images/AcRosário/img6.jpg'
+import Img7_pasta27 from '../../files/images/AcRosário/img7.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3452,6 +3460,41 @@ export default function Gallery() {
         id:569,
         imgSrc: Img8_pasta26,
         description: 'Apresentação na feira - Currais Novos - 31 de outubro 2012.'
+        },
+        {
+        id:570,
+        imgSrc: Img1_pasta27,
+        description: 'Ac Rosário.'
+        },
+        {
+        id:571,
+        imgSrc: Img2_pasta27,
+        description: 'Ac Rosário.'
+        },
+        {
+        id:572,
+        imgSrc: Img3_pasta27,
+        description: 'Ac Rosário.'
+        },
+        {
+        id:573,
+        imgSrc: Img4_pasta27,
+        description: 'Ac Rosário.'
+        },
+        {
+        id:574,
+        imgSrc: Img5_pasta27,
+        description: 'Ac Rosário.'
+        },
+        {
+        id:575,
+        imgSrc: Img6_pasta27,
+        description: 'Ac Rosário.'
+        },
+        {
+        id:576,
+        imgSrc: Img7_pasta27,
+        description: 'Ac Rosário.'
         },
     ]
 
