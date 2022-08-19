@@ -531,6 +531,14 @@ import Img21_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro 
 import Img22_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img22.jpg'
 import Img23_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img23.jpg'
 
+import Img1_pasta20 from '../../files/images/Exibição do filme _A Cruz da Negra_ - Boa Vista/img1.jpg'
+import Img2_pasta20 from '../../files/images/Exibição do filme _A Cruz da Negra_ - Boa Vista/img2.jpg'
+import Img3_pasta20 from '../../files/images/Exibição do filme _A Cruz da Negra_ - Boa Vista/img3.jpg'
+import Img4_pasta20 from '../../files/images/Exibição do filme _A Cruz da Negra_ - Boa Vista/img4.jpg'
+import Img5_pasta20 from '../../files/images/Exibição do filme _A Cruz da Negra_ - Boa Vista/img5.jpg'
+import Img6_pasta20 from '../../files/images/Exibição do filme _A Cruz da Negra_ - Boa Vista/img6.jpg'
+import Img7_pasta20 from '../../files/images/Exibição do filme _A Cruz da Negra_ - Boa Vista/img7.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3073,6 +3081,41 @@ export default function Gallery() {
         id:507,
         imgSrc: Img23_pasta19,
         description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:508,
+        imgSrc: Img1_pasta20,
+        description: 'Exibição do filme _A Cruz da Negra_ - Boa Vista.'
+        },
+        {
+        id:509,
+        imgSrc: Img2_pasta20,
+        description: 'Exibição do filme _A Cruz da Negra_ - Boa Vista.'
+        },
+        {
+        id:510,
+        imgSrc: Img3_pasta20,
+        description: 'Exibição do filme _A Cruz da Negra_ - Boa Vista.'
+        },
+        {
+        id:511,
+        imgSrc: Img4_pasta20,
+        description: 'Exibição do filme _A Cruz da Negra_ - Boa Vista.'
+        },
+        {
+        id:512,
+        imgSrc: Img5_pasta20,
+        description: 'Exibição do filme _A Cruz da Negra_ - Boa Vista.'
+        },
+        {
+        id:513,
+        imgSrc: Img6_pasta20,
+        description: 'Exibição do filme _A Cruz da Negra_ - Boa Vista.'
+        },
+        {
+        id:514,
+        imgSrc: Img7_pasta20,
+        description: 'Exibição do filme _A Cruz da Negra_ - Boa Vista.'
         },
     ]
 
