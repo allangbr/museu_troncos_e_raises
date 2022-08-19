@@ -591,6 +591,15 @@ import Img2_pasta25 from '../../files/images/CAICÓ/img2.jpg'
 import Img3_pasta25 from '../../files/images/CAICÓ/img3.jpg'
 import Img4_pasta25 from '../../files/images/CAICÓ/img4.jpg'
 
+import Img1_pasta26 from '../../files/images/Apresentação na feira - Currais Novos - 31 de outubro 2012/img1.jpg'
+import Img2_pasta26 from '../../files/images/Apresentação na feira - Currais Novos - 31 de outubro 2012/img2.jpg'
+import Img3_pasta26 from '../../files/images/Apresentação na feira - Currais Novos - 31 de outubro 2012/img3.jpg'
+import Img4_pasta26 from '../../files/images/Apresentação na feira - Currais Novos - 31 de outubro 2012/img4.jpg'
+import Img5_pasta26 from '../../files/images/Apresentação na feira - Currais Novos - 31 de outubro 2012/img5.jpg'
+import Img6_pasta26 from '../../files/images/Apresentação na feira - Currais Novos - 31 de outubro 2012/img6.jpg'
+import Img7_pasta26 from '../../files/images/Apresentação na feira - Currais Novos - 31 de outubro 2012/img7.jpg'
+import Img8_pasta26 from '../../files/images/Apresentação na feira - Currais Novos - 31 de outubro 2012/img8.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3403,6 +3412,46 @@ export default function Gallery() {
         id:561,
         imgSrc: Img4_pasta25,
         description: 'Caicó.'
+        },
+        {
+        id:562,
+        imgSrc: Img1_pasta26,
+        description: 'Apresentação na feira - Currais Novos - 31 de outubro 2012.'
+        },
+        {
+        id:563,
+        imgSrc: Img2_pasta26,
+        description: 'Apresentação na feira - Currais Novos - 31 de outubro 2012.'
+        },
+        {
+        id:564,
+        imgSrc: Img3_pasta26,
+        description: 'Apresentação na feira - Currais Novos - 31 de outubro 2012.'
+        },
+        {
+        id:565,
+        imgSrc: Img4_pasta26,
+        description: 'Apresentação na feira - Currais Novos - 31 de outubro 2012.'
+        },
+        {
+        id:566,
+        imgSrc: Img5_pasta26,
+        description: 'Apresentação na feira - Currais Novos - 31 de outubro 2012.'
+        },
+        {
+        id:567,
+        imgSrc: Img6_pasta26,
+        description: 'Apresentação na feira - Currais Novos - 31 de outubro 2012.'
+        },
+        {
+        id:568,
+        imgSrc: Img7_pasta26,
+        description: 'Apresentação na feira - Currais Novos - 31 de outubro 2012.'
+        },
+        {
+        id:569,
+        imgSrc: Img8_pasta26,
+        description: 'Apresentação na feira - Currais Novos - 31 de outubro 2012.'
         },
     ]
 
