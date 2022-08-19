@@ -485,6 +485,52 @@ import Img122_pasta17 from '../../files/images/Oficina AC Junior/img122.jpg'
 import Img123_pasta17 from '../../files/images/Oficina AC Junior/img123.jpg'
 import Img124_pasta17 from '../../files/images/Oficina AC Junior/img124.jpg'
 
+import Img1_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img1.jpg'
+import Img2_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img2.jpg'
+import Img3_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img3.jpg'
+import Img4_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img4.jpg'
+import Img5_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img5.jpg'
+import Img6_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img6.jpg'
+import Img7_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img7.jpg'
+import Img8_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img8.jpg'
+import Img9_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img9.jpg'
+import Img10_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img10.jpg'
+import Img11_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img11.jpg'
+import Img12_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img12.jpg'
+import Img13_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img13.jpg'
+import Img14_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img14.jpg'
+import Img15_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img15.jpg'
+import Img16_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img16.jpg'
+import Img17_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img17.jpg'
+import Img18_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img18.jpg'
+import Img19_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img19.jpg'
+import Img20_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img20.jpg'
+import Img21_pasta18 from '../../files/images/Exposição Espaço Nordeste 2013/img21.jpg'
+
+import Img1_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img1.jpg'
+import Img2_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img2.jpg'
+import Img3_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img3.jpg'
+import Img4_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img4.jpg'
+import Img5_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img5.jpg'
+import Img6_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img6.jpg'
+import Img7_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img7.jpg'
+import Img8_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img8.jpg'
+import Img9_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img9.jpg'
+import Img10_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img10.jpg'
+import Img11_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img11.jpg'
+import Img12_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img12.jpg'
+import Img13_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img13.jpg'
+import Img14_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img14.jpg'
+import Img15_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img15.jpg'
+import Img16_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img16.jpg'
+import Img17_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img17.jpg'
+import Img18_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img18.jpg'
+import Img19_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img19.jpg'
+import Img20_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img20.jpg'
+import Img21_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img21.jpg'
+import Img22_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img22.jpg'
+import Img23_pasta19 from '../../files/images/Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior/img23.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -2807,6 +2853,226 @@ export default function Gallery() {
         id:463,
         imgSrc: Img124_pasta17,
         description: 'Oficina AC Junior.'
+        },
+        {
+        id:464,
+        imgSrc: Img1_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:465,
+        imgSrc: Img2_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:466,
+        imgSrc: Img3_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:467,
+        imgSrc: Img4_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:468,
+        imgSrc: Img5_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:469,
+        imgSrc: Img6_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:470,
+        imgSrc: Img7_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:471,
+        imgSrc: Img8_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:472,
+        imgSrc: Img9_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:473,
+        imgSrc: Img10_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:474,
+        imgSrc: Img11_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:475,
+        imgSrc: Img12_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:476,
+        imgSrc: Img13_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:477,
+        imgSrc: Img14_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:478,
+        imgSrc: Img15_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:479,
+        imgSrc: Img16_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:480,
+        imgSrc: Img17_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:481,
+        imgSrc: Img18_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:482,
+        imgSrc: Img19_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:483,
+        imgSrc: Img20_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:484,
+        imgSrc: Img21_pasta18,
+        description: 'Exposição Espaço Nordeste 2013.'
+        },
+        {
+        id:485,
+        imgSrc: Img1_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:486,
+        imgSrc: Img2_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:487,
+        imgSrc: Img3_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:488,
+        imgSrc: Img4_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:489,
+        imgSrc: Img5_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:490,
+        imgSrc: Img6_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:491,
+        imgSrc: Img7_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:492,
+        imgSrc: Img8_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:493,
+        imgSrc: Img9_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:494,
+        imgSrc: Img10_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:495,
+        imgSrc: Img11_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:496,
+        imgSrc: Img12_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:497,
+        imgSrc: Img13_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:498,
+        imgSrc: Img14_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:499,
+        imgSrc: Img15_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:500,
+        imgSrc: Img16_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:501,
+        imgSrc: Img17_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:502,
+        imgSrc: Img18_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:503,
+        imgSrc: Img19_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:504,
+        imgSrc: Img20_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:505,
+        imgSrc: Img21_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:506,
+        imgSrc: Img22_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
+        },
+        {
+        id:507,
+        imgSrc: Img23_pasta19,
+        description: 'Fotografando Fronteiras- Primeiro dia de curso de fotografia com AC Junior.'
         },
     ]
 
