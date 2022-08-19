@@ -608,6 +608,21 @@ import Img5_pasta27 from '../../files/images/AcRosário/img5.jpg'
 import Img6_pasta27 from '../../files/images/AcRosário/img6.jpg'
 import Img7_pasta27 from '../../files/images/AcRosário/img7.jpg'
 
+import Img1_pasta28 from '../../files/images/Acari 2/img1.jpg'
+import Img2_pasta28 from '../../files/images/Acari 2/img2.jpg'
+import Img3_pasta28 from '../../files/images/Acari 2/img3.jpg'
+import Img4_pasta28 from '../../files/images/Acari 2/img4.jpg'
+import Img5_pasta28 from '../../files/images/Acari 2/img5.jpg'
+import Img6_pasta28 from '../../files/images/Acari 2/img6.jpg'
+import Img7_pasta28 from '../../files/images/Acari 2/img7.jpg'
+import Img8_pasta28 from '../../files/images/Acari 2/img8.jpg'
+import Img9_pasta28 from '../../files/images/Acari 2/img9.jpg'
+import Img10_pasta28 from '../../files/images/Acari 2/img10.jpg'
+import Img11_pasta28 from '../../files/images/Acari 2/img11.jpg'
+import Img12_pasta28 from '../../files/images/Acari 2/img12.jpg'
+import Img13_pasta28 from '../../files/images/Acari 2/img13.jpg'
+import Img14_pasta28 from '../../files/images/Acari 2/img14.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3495,6 +3510,76 @@ export default function Gallery() {
         id:576,
         imgSrc: Img7_pasta27,
         description: 'Ac Rosário.'
+        },
+        {
+        id:577,
+        imgSrc: Img1_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:578,
+        imgSrc: Img2_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:579,
+        imgSrc: Img3_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:580,
+        imgSrc: Img4_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:581,
+        imgSrc: Img5_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:582,
+        imgSrc: Img6_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:583,
+        imgSrc: Img7_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:584,
+        imgSrc: Img8_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:585,
+        imgSrc: Img9_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:586,
+        imgSrc: Img10_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:587,
+        imgSrc: Img11_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:588,
+        imgSrc: Img12_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:589,
+        imgSrc: Img13_pasta28,
+        description: 'Acari 2.'
+        },
+        {
+        id:590,
+        imgSrc: Img14_pasta28,
+        description: 'Acari 2.'
         },
     ]
 
