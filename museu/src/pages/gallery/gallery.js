@@ -586,6 +586,11 @@ import Img4_pasta24 from '../../files/images/Ceará Mirim - Coqueiros e Engenho 
 import Img5_pasta24 from '../../files/images/Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais)/img5.jpg'
 import Img6_pasta24 from '../../files/images/Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais)/img6.jpg'
 
+import Img1_pasta25 from '../../files/images/CAICÓ/img1.jpg'
+import Img2_pasta25 from '../../files/images/CAICÓ/img2.jpg'
+import Img3_pasta25 from '../../files/images/CAICÓ/img3.jpg'
+import Img4_pasta25 from '../../files/images/CAICÓ/img4.jpg'
+
 export default function Gallery() {
 
     let data = [
@@ -3378,6 +3383,26 @@ export default function Gallery() {
         id:557,
         imgSrc: Img6_pasta24,
         description: 'Ceará Mirim - Coqueiros e Engenho Vale Verde (visita com alunos de graduação em ciências sociais).'
+        },
+        {
+        id:558,
+        imgSrc: Img1_pasta25,
+        description: 'Caicó.'
+        },
+        {
+        id:559,
+        imgSrc: Img2_pasta25,
+        description: 'Caicó.'
+        },
+        {
+        id:560,
+        imgSrc: Img3_pasta25,
+        description: 'Caicó.'
+        },
+        {
+        id:561,
+        imgSrc: Img4_pasta25,
+        description: 'Caicó.'
         },
     ]
 
