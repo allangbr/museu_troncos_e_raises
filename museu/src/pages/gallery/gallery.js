@@ -745,7 +745,11 @@ import Img14_pasta34 from '../../files/images/7ª Primavera dos Museus - Jardim 
 import Img15_pasta34 from '../../files/images/7ª Primavera dos Museus - Jardim do Seridó/img15.jpg'
 import Img16_pasta34 from '../../files/images/7ª Primavera dos Museus - Jardim do Seridó/img16.jpg'
 import Img17_pasta34 from '../../files/images/7ª Primavera dos Museus - Jardim do Seridó/img17.jpg'
-import Img18_pasta34 from '../../files/images/7ª Primavera dos Museus - Jardim do Seridó/img18.jpg'
+
+import Img1_pasta35 from '../../files/images/ Fotos irmandade do Rosário Boa Vista Nathalia Amarante/img1.jpg'
+import Img2_pasta35 from '../../files/images/ Fotos irmandade do Rosário Boa Vista Nathalia Amarante/img2.jpg'
+import Img3_pasta35 from '../../files/images/ Fotos irmandade do Rosário Boa Vista Nathalia Amarante/img3.jpg'
+import Img4_pasta35 from '../../files/images/ Fotos irmandade do Rosário Boa Vista Nathalia Amarante/img4.jpg'
 
 export default function Gallery() {
   let data = [
@@ -4437,8 +4441,23 @@ export default function Gallery() {
     },
     {
       id: 709,
-      imgSrc: Img18_pasta34,
-      description: '7ª Primavera dos Museus - Jardim do Seridó.'
+      imgSrc: Img1_pasta35,
+      description: 'Fotos irmandade do Rosário Boa Vista Nathalia Amarante.'
+    },
+    {
+      id: 710,
+      imgSrc: Img2_pasta35,
+      description: 'Fotos irmandade do Rosário Boa Vista Nathalia Amarante.'
+    },
+    {
+      id: 711,
+      imgSrc: Img3_pasta35,
+      description: 'Fotos irmandade do Rosário Boa Vista Nathalia Amarante.'
+    },
+    {
+      id: 712,
+      imgSrc: Img4_pasta35,
+      description: 'Fotos irmandade do Rosário Boa Vista Nathalia Amarante.'
     }
   ]
 
