@@ -1,11 +1,11 @@
-import React from "react";
-import "./footer.css";
+import React from 'react'
+import './footer.css'
 export default function footer() {
   return (
     <footer className="footer">
       <div className="content">
         <div className="contato">
-          <h2>Contato</h2>
+          <h2>Contatos</h2>
           <ul>
             <li>
               <img src="/assets/img/email-logo.png" className="email"></img>
@@ -22,7 +22,10 @@ export default function footer() {
           <img className="uf" src="/assets/img/uf.png"></img>
         </div>
         <div className="logo">
-          <img src="/assets/img/green_logo.png" alt="Logo verde do museu Tronco, Ramos e Raízes." />
+          <img
+            src="/assets/img/green_logo.png"
+            alt="Logo verde do museu Tronco, Ramos e Raízes."
+          />
         </div>
       </div>
     </footer>
